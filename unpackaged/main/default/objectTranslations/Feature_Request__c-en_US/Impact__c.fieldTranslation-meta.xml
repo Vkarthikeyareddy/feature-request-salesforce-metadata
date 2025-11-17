@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Impact --></label>
+        <name>Impact__c</name>
+        <picklistValues>
+            <masterLabel>Business Critical</masterLabel>
+            <translation><!-- Business Critical --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Important</masterLabel>
+            <translation><!-- Important --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nice to have</masterLabel>
+            <translation><!-- Nice to have --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

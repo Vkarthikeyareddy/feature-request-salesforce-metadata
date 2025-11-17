@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Feature Request</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Feature Requests</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please set an Impact before marking a request as High priority. --></errorMessage>
+        <name>Require_Impact_For_Priority</name>
+    </validationRules>
+</CustomObjectTranslation>
