@@ -8,14 +8,14 @@
         <plural>true</plural>
         <value>Feature Requests</value>
     </caseValues>
-    
-    
-    
-    
-    
     <startsWith>Consonant</startsWith>
     <validationRules>
         <errorMessage><!-- Please set an Impact before marking a request as High priority. --></errorMessage>
         <name>Require_Impact_For_Priority</name>
     </validationRules>
+    
+    
+    
+    
+    
 </CustomObjectTranslation>

@@ -3,6 +3,10 @@
         <label><!-- Status --></label>
         <name>Status__c</name>
         <picklistValues>
+            <masterLabel>Deferred</masterLabel>
+            <translation><!-- Deferred --></translation>
+        </picklistValues>
+        <picklistValues>
             <masterLabel>In Progress</masterLabel>
             <translation><!-- In Progress --></translation>
         </picklistValues>
